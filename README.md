@@ -101,3 +101,9 @@ password = password + letter
 pick a random char from candidates
 letter = "Z"
 password = password + letter
+
+## My Password Generator
+
+[My Password Generator](https://vossellerm.github.io/password-generator/)
+
+![](Screen%20Shot%202022-04-07%20at%2011.15.18%20AM.png)
